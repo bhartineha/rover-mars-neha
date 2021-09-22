@@ -61,4 +61,7 @@ Install dependencies
 $ npm install
 
 Run Tests
-$ npm test
+$ npm test 
+
+# Run tests for a specific file
+$ npm test marsRover.spec.ts
